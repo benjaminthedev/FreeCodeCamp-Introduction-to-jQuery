@@ -1,6 +1,7 @@
 <script>
     $(document).ready(function() {
-        $(".well").addClass("animated shake");
+        $(".well").addClass("animated bounce");
+        $(".well").addClass("shake");
   });
 </script>
 
